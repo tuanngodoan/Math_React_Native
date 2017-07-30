@@ -17,7 +17,8 @@ export default class Math_React_Native extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Math for KID
+		1`3`4`125125615125X=Y
+          Math For KID
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.ios.js
