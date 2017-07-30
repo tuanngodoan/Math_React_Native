@@ -17,7 +17,7 @@ export default class Math_React_Native extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          Math for KID
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.ios.js
